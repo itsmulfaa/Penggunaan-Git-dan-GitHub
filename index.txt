@@ -6,5 +6,5 @@ edit langsung dari GitHub web
 
 Tambahan untuk latihan pull request
 
-Percobaann untuk git diff
+Percobaan untuk git diff 
 
