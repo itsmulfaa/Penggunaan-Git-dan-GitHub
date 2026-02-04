@@ -1,3 +1,5 @@
 Praktikum Git dan GitHub
 Nama : Maria Ulfa
 NIM : 25071103170
+
+edit langsung dari GitHub web
